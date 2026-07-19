@@ -2,10 +2,10 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Mubeen+Ahmad+---+Automation+&+Full+Stack+Developer" alt="Mubeen Ahmad Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/swiftmubi/swiftmubi/[YOUR_COMMIT_HASH]/image_2.png" alt="Mubeen Ahmad Banner" width="100%">
 </p>
 
-### Automation Developer | Full Stack Developer | React.js | n8n Orchestration | Python
+### Frontend Developer | Automation Specialist | React.js | n8n Orchestration | Python
 ##### Building Seamless Workflows • Optimizing Systems • Always Innovating
 
 ---

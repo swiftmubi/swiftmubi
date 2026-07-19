@@ -2,7 +2,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swiftmubi/swiftmubi/[YOUR_COMMIT_HASH]/image_2.png" alt="Mubeen Ahmad Banner" width="100%">
+  <img src=""C:\Users\BwpComputers\Downloads\GitHub Banner Mubeen.png"" width="100%">
 </p>
 
 ### Frontend Developer | Automation Specialist | React.js | n8n Orchestration | Python
@@ -24,7 +24,7 @@
     *   📈 **Interactive Frontend Dashboards**[cite: 1]
 *   💡 **Interests:**
     *   Workflow Orchestration & Automation[cite: 1]
-    *   Full-Stack Web Development[cite: 1]
+    *   Web Development[cite: 1]
     *   API Management & System Integrations[cite: 1]
     *   Process Optimization[cite: 1]
 
@@ -45,12 +45,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
@@ -66,12 +64,12 @@
 ## 🚀 Featured Projects
 
 ### 🌌 University Process Automation Hub
-**An intelligent administrative management engine developed using React, Django, n8n Webhooks, and PostgreSQL.**[cite: 1]
+**An intelligent administrative management engine developed using React, Django, n8n Webhooks, and MySQL.**[cite: 1]
 
 #### Features
 *   **Real-time Event Triggers:** Automated instant message routing and update deliveries through Email and WhatsApp via webhooks.[cite: 1]
 *   **Operational Efficiency:** Cut manual operational times for administrative processes by 40%.[cite: 1]
-*   **Full-Stack Architecture:** Powered by a responsive frontend dashboard interacting smoothly with a secure backend API.[cite: 1]
+*   **Front-End Architecture:** Powered by a responsive frontend dashboard interacting smoothly with a secure backend API.[cite: 1]
 
 ---
 
@@ -94,9 +92,6 @@
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mubeen-ahmad-30a282371" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:mubimubeen3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>

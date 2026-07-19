@@ -2,7 +2,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <img src=""C:\Users\BwpComputers\Downloads\GitHub Banner Mubeen.png"" width="100%">
+  <img src="github-banner-mubeen.png" alt="Mubeen Ahmad Banner" width="100%">
 </p>
 
 ### Frontend Developer | Automation Specialist | React.js | n8n Orchestration | Python
@@ -15,8 +15,8 @@
 *   🎓 **BS Computer Science Student at The Islamia University of Bahawalpur**[cite: 1]
 *   💻 **Passionate about automating workflows and developing clean, scalable user interfaces.**[cite: 1]
 *   🌱 **Currently Learning & Mastering:**
-    *   Advanced Automation Paradigms
-    *   System Architecture & Optimization
+    *   Advanced Automation Paradigms[cite: 1]
+    *   System Architecture & Optimization[cite: 1]
     *   Scalable API Infrastructure[cite: 1]
 *   🛠️ **Currently Working On:**
     *   🌌 **University Process Automation Hub**[cite: 1]

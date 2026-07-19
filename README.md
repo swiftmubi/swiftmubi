@@ -2,7 +2,7 @@
 
 <!-- PROFILE BANNER IMAGE -->
 <p align="center">
-  <img src="github-banner-mubeen.png" alt="Mubeen Ahmad Banner" width="100%">
+  <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f4a32e6d-8e52-41af-9420-caa3174ca1fc" alt="Mubeen Ahmad Banner">
 </p>
 
 ### Frontend Developer | Automation Specialist | React.js | n8n Orchestration | Python

@@ -1,51 +1,93 @@
-# Hi there, I'm Mubeen Ahmad! 👋
+# Hi 👋, I'm Mubeen Ahmad
 
-## 🚀 Automation & Full-Stack Developer
-I specialize in building intelligent **n8n workflows**, integrating complex APIs, and developing responsive, modern frontend interfaces using **React.js**. I bridge the gap between seamless backend automation and intuitive user experiences.
+### Automation Developer | Full Stack Developer | React.js | n8n Orchestration | Python
+##### Building Seamless Workflows • Optimizing Systems • Always Innovating
 
 ---
 
-### 📊 My GitHub Stats & Insights
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swiftmubi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mubeen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftmubi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+*   🎓 **BS Computer Science Student at The Islamia University of Bahawalpur**[cite: 1]
+*   💻 **Passionate about automating workflows and developing clean, scalable user interfaces.**[cite: 1]
+*   🌱 **Currently Learning & Mastering:**
+    *   Advanced Automation Paradigms
+    *   System Architecture & Optimization
+    *   Scalable API Infrastructure[cite: 1]
+*   🛠️ **Currently Working On:**
+    *   🌌 **University Process Automation Hub**[cite: 1]
+    *   🤖 **Advanced Multi-Channel n8n Pipelines**[cite: 1]
+    *   📈 **Interactive Frontend Dashboards**[cite: 1]
+*   💡 **Interests:**
+    *   Workflow Orchestration & Automation[cite: 1]
+    *   Full-Stack Web Development[cite: 1]
+    *   API Management & System Integrations[cite: 1]
+    *   Process Optimization[cite: 1]
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swiftmubi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### Frameworks & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</p>
+
+### Tools & Automation Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 ---
 
-### 🛠️ Technical Toolbox
+## 🚀 Featured Projects
 
-| Category | Technologies |
-| :--- | :--- |
-| **Automation & DevOps** | ![n8n](https://img.shields.io/badge/n8n-FF6F61?style=flat-square&logo=n8n&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhook&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Databases** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+### 🌌 University Process Automation Hub
+**An intelligent administrative management engine developed using React, Django, n8n Webhooks, and PostgreSQL.**[cite: 1]
 
----
-
-### ⚙️ Featured Automation Pipelines & Projects
-
-*   **University Process Automation Hub:** Built a full-stack dashboard (React/Django) utilizing n8n webhooks to automate administrative communication via Email and WhatsApp—cutting manual operational time by 40%.
-*   **Production Automation Workflows:** Developed custom pipelines for automated YouTube metadata/video generation, web scraping engines, real-time CRM lead generation, and an automated AI Receptionist.
-*   **E-Commerce Store & Personal Dashboard:** Created responsive storefront frontends and production productivity spaces built natively on React hooks and Tailwind CSS.
+#### Features
+*   **Real-time Event Triggers:** Automated instant message routing and update deliveries through Email and WhatsApp via webhooks.[cite: 1]
+*   **Operational Efficiency:** Cut manual operational times for administrative processes by 40%.[cite: 1]
+*   **Full-Stack Architecture:** Powered by a responsive frontend dashboard interacting smoothly with a secure backend API.[cite: 1]
 
 ---
 
-### 🏆 Certifications
-*   **Advance Python Programming & Applications** (NAVTTC - A+ Grade)
-*   **Data Manipulation with Pandas** (DataCamp)
-*   **Introduction to Python & Understanding Data Science** (DataCamp)
+### 🤖 Custom Production n8n Workflows
+**End-to-end event-driven pipelines engineered to completely eliminate manual overhead.**[cite: 1]
+
+#### Pipelines Built
+*   **YouTube Automation:** Automated script handling, generation pipelines, metadata styling, and publishing directly via the YouTube API.[cite: 1]
+*   **Lead Generation Engine:** Real-time data capture, automated qualification logic, and direct routing into CRMs.[cite: 1]
+*   **AI Receptionist & Booking System:** Handles incoming digital inquiries, processes FAQs automatically, and updates scheduling applications without manual intervention.[cite: 1]
 
 ---
 
-### 🤝 Connect with Me
+## 🏆 Certifications
+*   📜 **Advance Python Programming & Applications** – NAVTTC (A+ Grade)[cite: 1]
+*   📊 **Data Manipulation with Pandas** – DataCamp[cite: 1]
+*   💡 **Understanding Data Science** – DataCamp[cite: 1]
 
+---
+
+## 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mubeen-ahmad-30a282371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
